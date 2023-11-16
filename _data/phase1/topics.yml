@@ -1,0 +1,75 @@
+- title: Git and the Command Line
+  phase: 1
+  date: 2023-10-02
+  project_name: git_it
+  page: phase1/welcome.md
+  code_demo:
+  published: true
+- title: HTML
+  phase: 1
+  date: 2022-10-03
+  project_name: html_small_business
+  page: phase1/html.md
+  code_demo: html-bears
+  published: true
+- title: CSS Basics
+  phase: 1
+  date: 2022-10-04
+  project_name: css_dog_adoption
+  page: phase1/css-basics.md
+  code_demo:
+  published: true
+- title: CSS Layout
+  phase: 1
+  date: 2022-10-05
+  project_name: css_dog_adoption
+  page: phase1/css-layout.md
+  code_demo: css-flexbox
+  published: true
+- title: JavaScript Basics
+  phase: 1
+  date: 2023-10-09
+  project_name: js_calculator
+  code_demo: js_intro
+  published: true
+- title: JavaScript Loops & Functions
+  phase: 1
+  date: 2023-10-10
+  project_name: js_calculator_2
+  page: phase1/js-loops-functions.md
+  code_demo: radius_example_codepen
+  published: true
+- title: JavaScript Arrays
+  phase: 1
+  date: 2023-10-11
+  project_name:
+  code_demo: js_arrays
+  published: true
+- title: JS & the DOM
+  phase: 1
+  date: 2023-10-12
+  project_name: js_calculator
+  page: phase1/js-dom.md
+  code_demo: js_dom
+  published: true
+- title: JavaScript Objects
+  phase: 1
+  date: 2023-10-16
+  project_name: js_customers
+  page: phase1/js-objects.md
+  code_demo: js_objects_and_the_dom
+  published: true
+- title: AJAX & APIs
+  phase: 1
+  date: 2023-10-18
+  project_name: ajax_mytunes
+  page: phase1/js-ajax.md
+  code_demo: ajax
+  published: true
+- title: JS Wrap Up
+  phase: 1
+  date: 2023-10-23
+  project_name:
+  page: phase1/js-forms.md
+  code_demo:
+  published: true

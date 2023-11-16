@@ -1,0 +1,62 @@
+- title: Welcome to Python
+  phase: 2
+  date: 2023-10-29
+  page: phase2/welcome.md
+  project_name:
+  code_demo: py_basics
+  published: true
+- title: Python Conditionals and Loops
+  phase: 2
+  date: 2023-10-31
+  page: phase2/py-exercises.md
+  project_name: py-mystery-word
+  code_demo:
+  published: true
+- title: Python Lists and Dictionaries
+  phase: 2
+  date: 2023-11-01
+  page: phase2/py-lists-and-dicts.md
+  project_name: py-mystery-word
+  code_demo: 
+  published: true
+- title: Python List Comprehensions and Lambdas
+  phase: 2
+  date: 2023-11-02
+  page: phase2/py-list-comps.md
+  project_name:
+  code_demo: 
+  published: true
+- title: Object-Oriented Programming in Python
+  phase: 2
+  date: 2023-11-06
+  page: phase2/py-oop.md
+  project_name:
+  code_demo: #
+  published: true
+- title: Getting Used to Working in Django
+  phase: 2
+  date: 2023-11-08
+  page: phase2/py-intro-django.md
+  project_name:
+  code_demo: django-starter-app
+  published: true
+- title: Django CRUD
+  phase: 2
+  date: 2023-11-13
+  page: phase2/py-django-crud.md
+  project_name: django-music
+  code_demo: django-app-with-users
+  published: true
+- title: Django Level-Up ⚡
+  phase: 2
+  date: 2023-11-16
+  project_name: django_flashcards
+  page: phase2/py-django-level-up.md
+  code_demo: 
+  published: true
+- title: Django Wrap Up 🎬
+  phase: 2
+  date: 2022-11-20
+  page: phase2/py-django-wrap-up.md
+  project_name:
+  code_demo: #

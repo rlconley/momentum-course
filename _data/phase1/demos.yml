@@ -1,0 +1,37 @@
+html-bears:
+  url: https://github.com/momentum-team-20/example--html
+css-flexbox:
+  url: https://github.com/Momentum-Team-20/css-pets-example.git
+js_intro:
+  url: https://github.com/Momentum-Team-20/example-intro-js
+js_variables:
+  video_url: https://vimeo.com/showcase/7220986/video/426872305
+js_types:
+  video_url: https://vimeo.com/showcase/7220986/video/426872279
+js_functions:
+  video_url: https://vimeo.com/showcase/7220986/video/426872241
+js_arrays:
+  url: https://github.com/Momentum-Team-20/example-js-arrays.git
+js_for_of_loops:
+  video_url: https://vimeo.com/426872217
+js_for_and_while_loops:
+  video_url: https://vimeo.com/426872183
+radius_example_codepen:
+  url: https://codepen.io/rlconley/pen/MWQEZwL
+js_dom: https://github.com/Momentum-Team-20/example-js-dom.git
+js_calculator:
+  url: https://codepen.io/rlconley/pen/KKQZPmP
+js_objects_simpsons:
+  url: https://codepen.io/rlconley/pen/wvppXRy
+js_find_people_by_city:
+  url: https://codepen.io/rlconley/pen/poppZLz
+mari_edwards_objects:
+  video_url: https://vimeo.com/429329778
+js_objects_and_the_DOM:
+  url: https://github.com/Momentum-Team-20/example-js-objects.git
+js_working_calculator:
+  url: https://github.com/Momentum-Team-11/example-js-calculator
+js-forms:
+  url: https://codepen.io/rlconley/pen/mdXjLdL
+ajax:
+  url: https://github.com/Momentum-Team-20/example-ajax-users

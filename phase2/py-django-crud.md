@@ -1,0 +1,61 @@
+---
+layout: post
+title: Django CRUD
+tags: phase-2 python list-comprehensions dictionaries
+topic: Python
+category: phase2
+parent: Phase 2 Back End
+nav_order: 7
+published: true
+---
+
+
+## 🎯 Learning Objectives
+
+
+## 🏗️ Project: Django Music
+
+Build a CRUD application from scratch. This app should let you catalog your music collection.
+
+- Create
+- Read
+- Update
+- Delete
+
+This is due on **Thursday Morning**. We will spend some time in class working on it.
+
+[Django Music](https://classroom.github.com/a/-DKuX6Ng)
+
+## 🔖 Resources
+
+- [Extending the User model](https://simpleisbetterthancomplex.com/tutorial/2016/07/22/how-to-extend-django-user-model.html)
+- [Database Design Tutorial](https://learndjango.com/tutorials/database-design-tutorial-beginners) _This is a great short article that is really an intro to databases. It covers some data best practices and explains primary keys, foreign keys, and relationships._
+- [Django Docs Model Relationships](https://docs.djangoproject.com/en/4.0/topics/db/models/#relationships)
+- [Django Docs URLs](https://docs.djangoproject.com/en/4.0/topics/http/urls/)
+- [Django Docs Template Language](https://docs.djangoproject.com/en/4.0/ref/templates/)
+- [Django Docs Making Queries (using the ORM)](https://docs.djangoproject.com/en/4.0/topics/db/queries/)
+- [Django Docs Topic Guide](https://docs.djangoproject.com/en/4.0/topics/)
+
+- [Model field `null=True`](https://docs.djangoproject.com/en/4.0/ref/models/fields/#null) -> relevant for database storage
+- [Model field `blank=True`](https://docs.djangoproject.com/en/4.0/ref/models/fields/#blank) -> relevant for model object validation
+
+🌶🌶🌶 Useful for the spicy options:
+- [Foreign Key to built-in User from DjangoGirls](https://tutorial.djangogirls.org/en/django_models/#creating-a-blog-post-model)
+- [Uploading Images](https://djangocentral.com/uploading-images-with-django/)
+
+### Forms
+
+- [Working with Forms](https://docs.djangoproject.com/en/4.0/topics/forms/) -> A good place to start for an overview
+- [What is up with `form.is_valid()`](https://docs.djangoproject.com/en/4.0/ref/forms/api/#django.forms.Form.is_valid)
+- [Validation on a model form](https://docs.djangoproject.com/en/4.0/topics/forms/modelforms/#validation-on-a-modelform)
+- [Form and field validation](https://docs.djangoproject.com/en/4.0/ref/forms/validation/)
+- [The Forms API](https://docs.djangoproject.com/en/4.0/ref/forms/api/) -> Details on form object attribute and methods (such as `as_p()`)
+- [Django's CSRF protection](https://docs.djangoproject.com/en/4.0/ref/csrf/)
+  - [What is CSRF?](https://cheatsheetseries.owasp.org/cheatsheets/Cross-Site_Request_Forgery_Prevention_Cheat_Sheet.html)
+
+## 🦉 Code & Notes
+
+- [Team 13 Diagram of Django]({{ site.team_notes_repo }}/blob/main/django-map.md)
+- [Django shell notes]({{ site.team_notes_repo }}/blob/main/django-shell.md)
+- [Django Users Notes]({{ site.team_notes_repo }}/blob/main/django-users.md)
+

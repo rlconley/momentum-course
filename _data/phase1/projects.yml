@@ -1,0 +1,30 @@
+git_it:
+  url: git clone https://github.com/momentumlearn/git-it-electron.git
+  due_date: 2023-10-03
+html_small_business:
+  url: https://classroom.github.com/a/iMB8JX0C
+  due_date: 2023-10-04
+css_dog_adoption:
+  url: https://classroom.github.com/a/XNxyGiQf
+  due_date: 2023-10-09
+js_freecodecamp:
+  url: https://www.freecodecamp.org/learn/javascript-algorithms-and-data-structures/#basic-javascript
+  due_date:
+  due_date2:
+js_freecodecamp_espanol:
+  url: https://www.freecodecamp.org/espanol/learn/javascript-algorithms-and-data-structures/
+js_calculator:
+  url: https://classroom.github.com/a/zvVD0Abw
+  due_date: 2023-10-16
+js_customers:
+  url: https://classroom.github.com/a/HB5HwX2p
+  due_date: 2023-10-18
+ajax_github_profile:
+  url: https://classroom.github.com/a/TwznLlWw
+  due_date:
+ajax_currency_converter:
+  url: https://classroom.github.com/a/HFS8gTsM
+  due_date:
+ajax_mytunes:
+  url: https://classroom.github.com/a/ZjfKzELl
+  due_date: 2023-10-23

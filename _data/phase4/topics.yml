@@ -1,0 +1,28 @@
+- title: Agile Development 101
+  phase: 4
+  date: 2023-02-13
+  page: phase4/intro-agile.md
+  published: false
+  post_today: true
+- title: Defining MVP
+  phase: 4
+  date: 2023-02-14
+  page: phase4/defining-mvp.md
+  published: false
+  post_today: true
+- title: Writing User Stories
+  phase: 4
+  date: 2023-02-15
+  page: phase4/user-stories.md
+  published: false
+- title: Trello and Tasks
+  phase: 4
+  date: 2023-02-16
+  page: phase4/trello-and-tasks.md
+  published: false
+  post_today: true
+- title: Ready...Set...Code!
+  phase: 4
+  date: 2023-02-17
+  page: phase4/project-checklists.md
+  published: false

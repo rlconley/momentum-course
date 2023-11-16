@@ -1,0 +1,92 @@
+- title: Databases and Deployment
+  tag: be
+  phase: 3
+  date: 2023-01-17
+  page: phase3-be/databases-and-deployment.md
+  post_today: true
+  project_name: habit_tracker
+  code_demo: https://github.com/Momentum-Team-X/example-django-music
+  published: false
+- title: Models and Queries
+  tag: be
+  phase: 3
+  date: 2023-01-18
+  page: phase3-be/models-and-queries.md
+  project_name: habit_tracker
+  code_demo: https://github.com/Momentum-Team-X/example-django-music
+  published: false
+- title: Queries & Using the Shell
+  tag: be
+  phase: 3
+  date: 2023-01-19
+  page: phase3-be/queries-and-django-shell.md
+  project_name: habit_tracker
+  code_demo: https://github.com/Momentum-Team-X/example-django-habit-tracker
+  published: false
+- title: HTTP and REST
+  tag: be
+  phase: 3
+  date: 2023-01-23
+  page: phase3-be/http-and-rest.md
+  project_name: drf_tutorial
+  code_demo: https://github.com/Momentum-Team-X/example-django-habit-tracker
+  published: false
+- title: Intro to Django REST Framework
+  tag: be
+  phase: 3
+  date: 2023-01-24
+  page: phase3-be/drf.md
+  project_name: drf_choose_your_own_adventure
+  code_demo: https://github.com/Momentum-Team-X/example-django-habit-tracker
+  published: false
+- title: DRF Views and Serializers
+  tag: be
+  phase: 3
+  date: 2023-01-26
+  page: phase3-be/drf-serializers-and-views.md
+  project_name: drf_choose_your_own_adventure
+  code_demo: https://github.com/Momentum-Team-X/example-django-habit-tracker
+  published: false
+- title: Token Authentication and CORS
+  tag: be
+  phase: 3
+  date: 2023-01-30
+  page: phase3-be/token-auth.md
+  project_name: collaborative_project
+  code_demo: https://github.com/Momentum-Team-X/example-django-habit-tracker
+  post_today: true
+  published: false
+- title: Models and API Design
+  tag: be
+  phase: 3
+  date: 2023-01-31
+  page: phase3-be/models-api-design.md
+  project_name: collaborative_project
+  code_demo: https://github.com/Momentum-Team-X/example-django-habit-tracker
+  published: false
+- title: API Endpoints
+  tag: be
+  phase: 3
+  date: 2023-02-02
+  page: phase3-be/endpoints.md
+  project_name: collaborative_project
+  code_demo: https://github.com/Momentum-Team-X/example-drf-library
+  published: false
+- title: Search with DRF and Postgres
+  tag: be
+  phase: 3
+  date: 2023-02-06
+  page: phase3-be/full-text-search.md
+  project_name: collaborative_project
+  code_demo: https://github.com/Momentum-Team-X/example-django-habit-tracker
+  published: false
+  post_today: true
+- title: File & Image Upload
+  tag: be
+  phase: 3
+  date: 2023-02-07
+  page: phase3-be/file-and-image-upload.md
+  project_name: collaborative_project
+  code_demo: https://github.com/Momentum-Team-X/example-drf-library
+  published: false
+  post_today: true

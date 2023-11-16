@@ -1,0 +1,14 @@
+<script>
+  <!-- open external links in a new tab -->
+
+  link_elements = document.getElementsByTagName('a');
+  const ensure_external_links_open_in_new_tab = () => {
+      for (const link_el of link_elements) {
+          if(link_el.getAttribute("href") && link_el.hostname !== location.hostname) {
+              link_el.target = "_blank";
+              link_el.rel = "noopener";
+          }
+      }
+  };
+  ensure_external_links_open_in_new_tab();
+</script>

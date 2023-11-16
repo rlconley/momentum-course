@@ -1,0 +1,91 @@
+- title: The Modern JS Landscape
+  tag: fe
+  phase: 3
+  date: 2023-01-17
+  page: phase3-fe/modern-js.md
+  post_today: false
+  project_name: js_exercism
+  published: false
+- title: Hello React World
+  tag: fe
+  phase: 3
+  date: 2023-01-18
+  page: phase3-fe/intro-react.md
+  project_name: react_beginner_tutorial
+  code_demo: https://github.com/Momentum-Team-X/example-most-minimal-react-app-ever
+  published: false
+- title: Components, Props, and State
+  tag: fe
+  phase: 3
+  date: 2023-01-19
+  page: phase3-fe/props-and-state.md
+  project_name: react_freeshelf
+  code_demo: https://github.com/Momentum-Team-X/example-react-devs
+  published: false
+- title: AJAX and APIs
+  tag: fe
+  phase: 3
+  date: 2023-01-23
+  page: phase3-fe/ajax-and-apis.md
+  project_name: react_trivia
+  code_demo: https://github.com/Momentum-Team-X/example-react-devs
+  published: false
+- title: Multiple Components and Conditional Rendering
+  tag: fe
+  phase: 3
+  date: 2023-01-24
+  page: phase3-fe/multiple-components.md
+  project_name: react_trivia
+  code_demo: https://github.com/Momentum-Team-X/example-react-devs
+  published: false
+- title: Deploying a React App
+  tag: fe
+  phase: 3
+  date: 2023-01-26
+  page: phase3-fe/data-and-deployment.md
+  project_name: react_trivia
+  code_demo: https://github.com/Momentum-Team-X/example-react-devs
+  published: false
+- title: Forms in React
+  tag: fe
+  phase: 3
+  date: 2023-01-30
+  page: phase3-fe/react-forms.md
+  project_name: collaborative_project
+  code_demo: https://github.com/Momentum-Team-X/example-react-devs
+  post_today: false
+  published: false
+- title: Authentication in React
+  tag: fe
+  phase: 3
+  date: 2023-01-31
+  page: phase3-fe/auth-in-react.md
+  project_name: collaborative_project
+  code_demo: https://github.com/Momentum-Team-X/example-react-devs
+  published: false
+- title: URL Routing in React
+  tag: fe
+  phase: 3
+  date: 2023-02-02
+  page: phase3-fe/react-router.md
+  project_name: collaborative_project
+  code_demo: https://github.com/Momentum-Team-X/example-react-devs
+  published: false
+- title: Search in React
+  tag: fe
+  phase: 3
+  date: 2023-02-06
+  page: phase3-fe/search.md
+  project_name: collaborative_project
+  code_demo: https://github.com/Momentum-Team-X/example-react-devs
+  published: false
+  post_today: false
+- title: Uploading Files
+  tag: fe
+  phase: 3
+  date: 2023-02-07
+  page: phase3-fe/file-upload.md
+  project_name: collaborative_project
+  code_demo: https://github.com/Momentum-Team-X/example-react-devs
+  published: false
+  post_today: false

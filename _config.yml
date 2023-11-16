@@ -1,0 +1,104 @@
+# Welcome to Jekyll!
+#
+# This config file is meant for settings that affect your whole site, values
+# which you are expected to set up once and rarely edit after that. If you find
+# yourself editing these this file very often, consider using Jekyll's data files
+# feature for the data you need to update frequently.
+#
+# For technical reasons, this file is *NOT* reloaded automatically when you use
+# 'jekyll serve'. If you change this file, please restart the server process.
+
+# Site settings
+# These are used to personalize your new site. If you look in the HTML files,
+# you will see them accessed via {{ site.title }}, {{ site.github_repo }}, and so on.
+# You can create any custom variable you would like, and they will be accessible
+# in the templates via {{ site.myvariable }}.
+
+tagline: A Jekyll template for course websites
+description: Based on Kevin Lin's Just The Class jekyll theme
+baseurl: '/course' # the subpath of your site, e.g. /blog
+exclude: ["Gemfile", "Gemfile.lock", "LICENSE", ".jekyll-cache", ".sass-cache", ".github"]
+enable_copy_code_button: true
+
+# ***** Team-specific settings  ***** EDIT THESE WHEN YOU CLONE A NEW REPO
+title: Momentum Team 20 Course Site
+team_name: "Team 20"
+url: 'https://momentum-team-20.github.io'
+team_github_org: &github_org
+    'https://github.com/momentum-team-20'
+team_notes_repo: 'https://github.com/momentum-team-20/notes'
+zoom_link: 'https://us02web.zoom.us/j/89451654454?pwd=TEE3bkphQjNPQ1Z4Y2NueHFKVUxzUT09'
+zoom_coworking_link: 'https://us02web.zoom.us/j/705824048'
+
+# content settings
+# these are used in references/computer-setup-apple-silicon.md and references/computer-setup-intel.md
+latest_mac_os_name: 'Ventura'
+latest_mac_os_num: '13.5'
+latest_mac_os_compatibility_link: 'https://support.apple.com/en-us/HT213264'
+
+# Theme settings
+remote_theme: just-the-docs/just-the-docs@v0.4.0
+color_scheme: mmntm
+search_enabled: true
+heading_anchors: true
+permalink: pretty
+aux_links:
+  "Team 20 on GitHub":
+    - *github_org
+aux_links_new_tab: true
+back_to_top: true
+back_to_top_text: "Back to top ⌃"
+footer_content: "&copy;2023 Momentum"
+logo: "/assets/images/momentum__mark-digital-royal.png"
+
+
+# Collections for website data
+# just_the_docs:
+collections:
+  schedules:
+    name: schedules
+    nav_exclude: false
+  daily_posts:
+    name: daily_posts
+    output: true
+    nav_exclude: false
+  modules:
+    name: modules
+    output: true
+    nav_exclude: true
+  references:
+    name: references
+    output: true
+    nav_exclude: false
+
+
+# Default layouts for each collection type
+defaults:
+  - scope:
+      path: ''
+      type: modules
+    values:
+      layout: module
+  - scope:
+      path: ''
+      type: schedules
+    values:
+      layout: schedule
+  - scope:
+      path: daily_posts
+      type: pages
+    values:
+      layout: daily_post
+
+compress_html:
+  clippings: all
+  comments: all
+  endings: all
+  startings: []
+  blanklines: false
+  profile: false
+
+plugins:
+  - jekyll-remote-theme
+
+sass_dir: /_sass
